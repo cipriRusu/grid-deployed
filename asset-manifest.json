@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/grid-deployed/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/grid-deployed/static/js/main.1432c8ae.chunk.js",
+    "main.js.map": "/grid-deployed/static/js/main.1432c8ae.chunk.js.map",
+    "runtime-main.js": "/grid-deployed/static/js/runtime-main.810bd952.js",
+    "runtime-main.js.map": "/grid-deployed/static/js/runtime-main.810bd952.js.map",
+    "static/css/2.2dc95718.chunk.css": "/grid-deployed/static/css/2.2dc95718.chunk.css",
+    "static/js/2.8bee1280.chunk.js": "/grid-deployed/static/js/2.8bee1280.chunk.js",
+    "static/js/2.8bee1280.chunk.js.map": "/grid-deployed/static/js/2.8bee1280.chunk.js.map",
+    "static/js/3.9851ad84.chunk.js": "/grid-deployed/static/js/3.9851ad84.chunk.js",
+    "static/js/3.9851ad84.chunk.js.map": "/grid-deployed/static/js/3.9851ad84.chunk.js.map",
+    "index.html": "/grid-deployed/index.html",
+    "static/css/2.2dc95718.chunk.css.map": "/grid-deployed/static/css/2.2dc95718.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/grid-deployed/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.8bee1280.chunk.js.LICENSE.txt": "/grid-deployed/static/js/2.8bee1280.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/grid-deployed/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.810bd952.js",
+    "static/css/2.2dc95718.chunk.css",
+    "static/js/2.8bee1280.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.1432c8ae.chunk.js"
+  ]
+}
